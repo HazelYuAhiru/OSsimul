@@ -5,4 +5,4 @@ How to run:
 go run OSsimul.go -#ofUsers -#ofDisks -#ofPrinters
 ```
 Output:\
-PRINTER#num created in local directory
+PRINTER#num files created in local directory
